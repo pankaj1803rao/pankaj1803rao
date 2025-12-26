@@ -2,11 +2,11 @@
 <h3 align="center">pankz.dev ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1200&color=4FD1C5&center=true&vCenter=true&width=420&lines=Full-Stack+Developer;Clean+UI+Focused;Build.+Ship.+Repeat." />
+  <b>Full-Stack Developer 💻 | Clean UI • Scalable Code • Modern Web</b>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" width="140"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216655849-5c7c6b6f-9f9b-4d46-b6c2-5c0c7b5b1e1c.gif" width="300"/>
 </p>
 
 ---
@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <i>Simple. Focused. Consistent.</i>
+  <i>Simple. Focused. Building daily 🚀</i>
 </p>
